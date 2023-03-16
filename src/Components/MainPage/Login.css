@@ -1,0 +1,60 @@
+form {
+    width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px #ccc;
+    text-align: left;
+  }
+  
+  label {
+    display: block;
+
+  }
+  
+  input[type='text'],
+  input[type='email'],
+  input[type='tel'],
+  input[type='password'],
+  select {
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+
+  
+  button[type='submit'] {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  button[type='submit']:hover {
+    background-color: #3e8e41;
+  }
+  .lg
+  {
+    height:100%;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("https://i.pinimg.com/736x/d1/42/d8/d142d8b7a2e493ab8e6523ec42a5c420.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  .login-div
+  {
+    padding: 0% !important;
+    /* background-color: #F0B27A; */
+  }
+  .img-for-login
+  {
+    /* width: fit-content !important; */
+  }

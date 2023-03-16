@@ -1,0 +1,37 @@
+
+.aboutUsHeader{
+    color: black;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+    /* background-color: rgba(0, 255, 106, 0.209); */
+}
+.cardtext{
+    /* background-color: rgba(255, 55, 0, 0.153); */
+    color:black;
+}
+.quote{
+    font-size:medium;
+}
+
+.cardBody{
+    /* background-image: url("https://d3l793awsc655b.cloudfront.net/blog/wp-content/uploads/2022/09/agri2.jpeg");
+    background-repeat: no-repeat;
+    opacity:0.5; */
+   
+    color: black;
+}
+.aboutUsImgDiv{
+    /* background-color: #620e0e; */
+    background-image: url("https://thumbs.dreamstime.com/b/indian-rural-farmer-using-laptop-indian-rural-farmer-using-laptop-149929931.jpgs");
+}
+
+.aboutUsContainer{
+    margin-bottom: 2%;
+}
+
+.aboutUsCardHeader{
+    font-weight:500;
+    font-size: x-large;
+}

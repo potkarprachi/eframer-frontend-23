@@ -1,0 +1,23 @@
+.bgp1
+{
+    width:100wh;
+    height:100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../../../public/Corousel2.jpg);
+    background-size: cover;
+    background-position:center;
+    margin: 0%;
+    padding: 0%;
+}
+label
+{
+    color: white !important;
+}
+h1{
+    text-align: center;
+    margin-top: 20px !important;
+    
+}
+.addcropcss
+{
+    min-height:max-content !important;
+}

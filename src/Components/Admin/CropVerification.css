@@ -1,0 +1,8 @@
+.bgp
+{
+    width:100vw;
+    height:100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../../../public/Corousel1.jpg);
+    background-size: cover;
+    background-position:center;
+}

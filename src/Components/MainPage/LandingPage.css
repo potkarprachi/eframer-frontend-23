@@ -1,0 +1,41 @@
+.c-item
+{
+    height: 600px;
+}
+.c-img
+{
+    height: 100%;
+    object-fit:fill;
+    filter: brightness(0.6);
+}
+
+ .img-for-login-lp
+{
+    border: 5px black solid;
+    border-radius: 20px;
+    padding: 20px;
+} 
+.padding-no
+{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+@media screen and (min-width: 740px) {
+    .favforlp
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+  }
+
+
+@media screen and (min-width: 960px)
+{
+    .video
+    {
+       height: 400px;
+        width: 1000px;
+    }
+}

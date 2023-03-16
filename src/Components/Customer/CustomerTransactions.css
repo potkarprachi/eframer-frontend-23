@@ -1,0 +1,10 @@
+.bgp1
+{
+    width:100wh;
+    height:100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../../../public/Transaction.jpg);
+    background-size: cover;
+    background-position:center;
+    margin: 0%;
+    padding: 0%;
+}

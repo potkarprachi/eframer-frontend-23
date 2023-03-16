@@ -1,0 +1,70 @@
+body
+{
+    /* position:absolute;
+    left:0;
+    bottom:0;
+    right:0; */
+    margin-top: auto;
+}
+.afooter
+{
+  margin-top:0px !important;
+  width: 100vw !important;
+  max-height: max-content !important;
+  max-width: 1519.2px !important;
+}
+
+p {
+    font-size: medium;
+    font-style: oblique;
+    font-weight: 500;
+  }
+  h4 {
+    font-style: oblique;
+    font-weight: 600;
+  }
+  .myStlye
+  {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .List
+  {
+    list-style: none;
+  }
+  .padding-of-footer
+{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.row-of-footer
+{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  max-width: 1519.2px !important;
+}
+@media screen and (min-width: 960px)
+{
+  .div-for-foot-bp
+  {
+    max-width: 960px !important;
+  }
+}
+@media screen and (min-width: 720px)
+{
+  .div-for-foot-bp
+  {
+    max-width: 720px !important;
+  }
+}
+@media screen and (min-width: 540px)
+{
+  .div-for-foot-bp
+  {
+    max-width: 540px !important;
+  }
+}

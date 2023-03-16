@@ -1,0 +1,56 @@
+.pageTitle {
+    margin-top: 5%;
+  }
+
+  /* form div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  } */
+  .userInput {
+    border: 2px solid black;
+    width: 40%;
+    border-radius: 5px;
+    height: 20%;
+    font-size: 100%;
+  }
+
+  .userIssue {
+    margin-top: 20%;
+  }
+ 
+  .conactustitle{
+    color: black;
+  }
+  .contactIcons{
+    height: 50px;
+    width: 50px;
+    align-self: center;
+    margin-top: 10%;
+   
+  }
+  .contactHead{
+    background-image: url("https://agricoop.nic.in/images/breadcrumb-banner-1.jpg");
+    color: black;
+  }
+
+ 
+  .queryForm{
+    font-weight: 600;
+    background-repeat: no-repeat;
+    /* background-position-y: 1; */
+    /* background-image: url("https://s3.us-west-2.amazonaws.com/optconnectmarketing-uploads/images/Support-Illustration.png") */
+    background-image: url("https://media.istockphoto.com/id/1165152226/vector/customer-service-and-operator-concept-vector-character-woman-in-flat-style-with-headset.jpg?s=612x612&w=0&k=20&c=RRfrks5-XCL1A2K5k0MufJro9BRQm8chMikP3lWqup0=")
+  }
+
+  /*  */
+  .labelTextContactUs{
+    color: black !important;
+    text-align: left;
+  }
+  .contactInfo{
+    padding-top: 1%;
+  }
+/*  */
+ 
